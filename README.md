@@ -8,4 +8,4 @@ How to use it:
 
 Youtube Link (click image)
 
-<img src="cover.png" href="https://www.youtube.com/watch?v=LbQ6lr-JdVc&ab_channel=JackCH." target="_blank" />
+[![Demo 01](cover.png)](https://www.youtube.com/watch?v=LbQ6lr-JdVc&ab_channel=JackCH.)
