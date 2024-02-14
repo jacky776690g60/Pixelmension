@@ -1,10 +1,9 @@
 # Pixelmension
 A useful web application to aid your artistic pursuit.
 
-How to use it: 
+How to use it: https://jacktogon.com/pixelmension
 
-1. go to <a href="https://jacktogon.com" target="_blank">https://jacktogon.com</a>
-2. Click on Pixelmension on the navigation bar.
+1. go to <a href="https://jacktogon.com/pixelmension" target="_blank">https://jacktogon.com/pixelmension</a>
 
 Youtube Link (click image)
 
